@@ -1,0 +1,28 @@
+#estilo1
+{
+	/* hacemos que la cabecera ocupe el ancho completo de la página */
+  	height: 100px;
+  	max-width: 1724px;
+  	width: 100%; 
+  position: fixed;
+ display: inline-block;
+}
+.row
+{
+	padding: 130px 20px 20px 20px;
+}
+.footer1
+{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	 background-image: url("../JPG/footer12.png");
+	text-align: center;
+	color: white;
+	font-family:Arial;
+	background-size: 100% 100%;
+}
+
+

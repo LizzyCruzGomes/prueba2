@@ -1,0 +1,25 @@
+body, html
+{
+	margin: 0;
+	height: auto;
+	margin-top: 0;
+}
+.cabeza
+{
+	height: 100px;
+	max-width: 1724px;
+	width: 100%;	
+}
+.footer
+{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	 background-image: url("../../JPG/footer12.png");
+	text-align: center;
+	color: white;
+	font-family:Arial;
+	background-size: 100% 100%;
+}
